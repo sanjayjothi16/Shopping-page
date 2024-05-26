@@ -3,7 +3,7 @@ import React,{useState} from 'react'
 
 let data=[{
     title : "JBL",
-    img : "public/JBL.jpg",
+    img : "https://i5.walmartimages.com/asr/43b4d325-d149-432d-8af2-a0d4adf6e5e1_1.7d4b30a4a0bc8a4e656e55e2abccc219.png",
     Oprice : "$40.00",
     Pirce: "$30.00",
     },
