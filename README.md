@@ -1,5 +1,6 @@
 # React + Vite
 
+This a shopping site created with reusable dynamuc objects where user can add or remove from cart and the cart value also changes accordingly
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
